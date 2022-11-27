@@ -2,7 +2,7 @@ package Oraa;
 
 public class Dog extends Animal{
     public void eat(){
-        System.out.println("Dogs loves to eat meat");
+        System.out.print("Dogs loves to eat meat");
 
     }
     public void sleep(){
