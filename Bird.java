@@ -2,7 +2,7 @@ package Oraa;
 
 public class Bird extends Animal{
     public void eat(){
-        System.out.println("Birds love to eat seed");
+        System.out.print("Birds love to eat seed");
 
     }
     public void sleep(){
